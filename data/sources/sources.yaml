@@ -1,0 +1,117 @@
+sources:
+  - id: SRC-001
+    nome: OpenStreetMap
+    categoria: Dados geográficos colaborativos
+    tipo: Vetorial
+    url: https://www.openstreetmap.org/
+    licença: Open Database License
+    cobertura: Global, com cobertura variável no Vale do Pati
+    observações: Útil como referência inicial; requer validação local.
+
+  - id: SRC-002
+    nome: Wikiloc
+    categoria: Trilhas e registros de usuários
+    tipo: Tracklogs e relatos
+    url: https://www.wikiloc.com/
+    licença: ""
+    cobertura: Variável, conforme contribuições de usuários
+    observações: Pode conter trilhas, rotas e descrições; exige validação e cuidado com duplicidades.
+
+  - id: SRC-003
+    nome: AllTrails
+    categoria: Trilhas e registros de usuários
+    tipo: Tracklogs e relatos
+    url: https://www.alltrails.com/
+    licença: ""
+    cobertura: Variável, conforme contribuições de usuários
+    observações: Pode apoiar comparação de rotas; uso sujeito às condições da plataforma.
+
+  - id: SRC-004
+    nome: MapBiomas
+    categoria: Cobertura e uso da terra
+    tipo: Dados geoespaciais temáticos
+    url: https://mapbiomas.org/
+    licença: ""
+    cobertura: Brasil
+    observações: Fonte estruturante para contexto ambiental e uso do solo.
+
+  - id: SRC-005
+    nome: IBGE
+    categoria: Dados oficiais territoriais
+    tipo: Dados geográficos e estatísticos
+    url: https://www.ibge.gov.br/
+    licença: ""
+    cobertura: Brasil
+    observações: Referência oficial para limites, cartografia e informações territoriais.
+
+  - id: SRC-006
+    nome: ICMBio
+    categoria: Dados institucionais ambientais
+    tipo: Documentos e dados oficiais
+    url: https://www.gov.br/icmbio/
+    licença: ""
+    cobertura: Unidades de conservação e áreas sob gestão federal
+    observações: Fonte relevante para contexto ambiental, gestão e conservação.
+
+  - id: SRC-007
+    nome: Google Satellite
+    categoria: Imagem de satélite
+    tipo: Imagem
+    url: ""
+    licença: Proprietário
+    cobertura: Global
+    observações: Referência visual; uso e reprodução dependem dos termos da plataforma.
+
+  - id: SRC-008
+    nome: Bing Satellite
+    categoria: Imagem de satélite
+    tipo: Imagem
+    url: ""
+    licença: Proprietário
+    cobertura: Global
+    observações: Referência visual; uso e reprodução dependem dos termos da plataforma.
+
+  - id: SRC-009
+    nome: ESRI World Imagery
+    categoria: Imagem de satélite
+    tipo: Imagem
+    url: ""
+    licença: Proprietário
+    cobertura: Global
+    observações: Referência visual; uso e reprodução dependem dos termos da plataforma.
+
+  - id: SRC-010
+    nome: Artigos científicos
+    categoria: Referência bibliográfica
+    tipo: Publicações
+    url: ""
+    licença: Conforme publicação
+    cobertura: Variável, conforme estudo
+    observações: Fonte para informações ambientais, geográficas, históricas e metodológicas.
+
+  - id: SRC-011
+    nome: Dissertações
+    categoria: Referência bibliográfica
+    tipo: Trabalhos acadêmicos
+    url: ""
+    licença: Conforme publicação
+    cobertura: Variável, conforme pesquisa
+    observações: Fonte para levantamentos detalhados e referências especializadas.
+
+  - id: SRC-012
+    nome: Relatos de montanhistas
+    categoria: Relatos de campo
+    tipo: Texto, fotografia ou tracklog
+    url: ""
+    licença: ""
+    cobertura: Variável, conforme relato
+    observações: Útil para observações práticas; deve ser diferenciado de fato confirmado.
+
+  - id: SRC-013
+    nome: Guias locais
+    categoria: Conhecimento local
+    tipo: Relato e validação de campo
+    url: ""
+    licença: ""
+    cobertura: Vale do Pati e entorno
+    observações: Fonte essencial para validação territorial e contexto local.
