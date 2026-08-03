@@ -22,6 +22,7 @@ Nesta etapa, o repositório existe para estabelecer uma estrutura profissional d
 docs/                 Documentação conceitual e diretrizes do projeto
 data/raw/             Dados brutos preservados como recebidos ou coletados
 data/processed/       Dados tratados, normalizados ou derivados
+data/reference/       Cadastros de referência do Atlas
 data/schemas/         Esquemas e contratos de dados futuros
 data/sources/         Registros sobre origem, licença e contexto das fontes
 scripts/              Espaço reservado para automações futuras

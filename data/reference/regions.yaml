@@ -1,0 +1,12 @@
+regions:
+  - id: vale_do_pati
+    nome: Vale do Pati
+    descrição: Região de referência central do Atlas, situada na Chapada Diamantina.
+
+  - id: serra_do_sincora
+    nome: Serra do Sincorá
+    descrição: Conjunto serrano associado ao contexto geográfico regional do Vale do Pati.
+
+  - id: parque_nacional_da_chapada_diamantina
+    nome: Parque Nacional da Chapada Diamantina
+    descrição: Unidade de conservação federal relacionada ao contexto territorial do Vale do Pati.
