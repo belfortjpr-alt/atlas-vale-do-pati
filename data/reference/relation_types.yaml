@@ -1,0 +1,50 @@
+relation_types:
+  - id: contains
+    nome: Contém
+    descrição: Indica que um objeto inclui outro em seu contexto territorial ou conceitual.
+    direção: unidirectional
+
+  - id: belongs_to
+    nome: Pertence a
+    descrição: Indica que um objeto faz parte de outro objeto ou região mais ampla.
+    direção: unidirectional
+
+  - id: flows_into
+    nome: Deságua em
+    descrição: Indica que um curso d'água ou fluxo hídrico deságua em outro.
+    direção: unidirectional
+
+  - id: crosses
+    nome: Cruza
+    descrição: Indica que um objeto atravessa ou intercepta outro.
+    direção: bidirectional
+
+  - id: connected_to
+    nome: Conecta-se a
+    descrição: Indica conexão direta entre dois objetos geográficos.
+    direção: bidirectional
+
+  - id: located_in
+    nome: Localiza-se em
+    descrição: Indica que um objeto está situado dentro de uma região ou contexto geográfico.
+    direção: unidirectional
+
+  - id: originates_from
+    nome: Origina-se de
+    descrição: Indica que um objeto ou fluxo tem origem em outro objeto.
+    direção: unidirectional
+
+  - id: passes_through
+    nome: Passa por
+    descrição: Indica que um percurso, trilha ou fluxo passa por determinado objeto ou região.
+    direção: unidirectional
+
+  - id: adjacent_to
+    nome: Adjacente a
+    descrição: Indica proximidade ou contiguidade entre dois objetos geográficos.
+    direção: bidirectional
+
+  - id: accesses
+    nome: Acessa
+    descrição: Indica que um objeto permite ou representa acesso a outro objeto ou região.
+    direção: unidirectional
