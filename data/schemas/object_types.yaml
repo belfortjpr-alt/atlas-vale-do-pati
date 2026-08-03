@@ -1,0 +1,72 @@
+object_types:
+  - id: river
+    nome: Rio
+    descrição: Curso d'água principal ou de maior expressão territorial. Representa rios reconhecidos como elementos estruturantes da paisagem.
+
+  - id: stream
+    nome: Riacho
+    descrição: Curso d'água menor, permanente ou sazonal, relevante para a leitura hidrográfica do território.
+
+  - id: spring
+    nome: Nascente
+    descrição: Ponto ou área de origem de fluxo de água. Inclui nascentes identificadas por fonte documental ou observação de campo.
+
+  - id: waterfall
+    nome: Cachoeira
+    descrição: Queda d'água ou sequência de quedas com relevância geográfica, ambiental ou de referência local.
+
+  - id: pool
+    nome: Poço
+    descrição: Acúmulo natural de água associado a rios, riachos, cachoeiras ou formações rochosas.
+
+  - id: trail
+    nome: Trilha
+    descrição: Caminho reconhecido para deslocamento a pé ou por uso tradicional no território.
+
+  - id: trail_segment
+    nome: Segmento de Trilha
+    descrição: Trecho individual de uma trilha usado para representar partes específicas de um percurso maior.
+
+  - id: viewpoint
+    nome: Mirante
+    descrição: Local de observação da paisagem com relevância visual, geográfica ou cultural.
+
+  - id: campsite
+    nome: Camping
+    descrição: Área utilizada ou reconhecida para pernoite em barraca ou estrutura temporária.
+
+  - id: shelter
+    nome: Abrigo
+    descrição: Local de proteção ou permanência temporária, natural ou construído, associado ao uso do território.
+
+  - id: house
+    nome: Casa
+    descrição: Construção de apoio, moradia, referência local ou ponto de permanência associado ao território.
+
+  - id: cave
+    nome: Gruta
+    descrição: Cavidade natural, abrigo rochoso ou formação subterrânea relevante para o mapeamento territorial.
+
+  - id: geological_feature
+    nome: Formação Geológica
+    descrição: Elemento físico da paisagem associado à geologia, relevo ou morfologia do território.
+
+  - id: bridge
+    nome: Ponte
+    descrição: Estrutura ou passagem construída para atravessar rios, riachos, vales ou obstáculos naturais.
+
+  - id: crossing
+    nome: Travessia
+    descrição: Ponto ou trecho utilizado para atravessar curso d'água, obstáculo natural ou mudança relevante no percurso.
+
+  - id: access_point
+    nome: Ponto de Acesso
+    descrição: Local de entrada, saída ou transição usado para acessar trilhas, áreas ou pontos de interesse.
+
+  - id: municipality
+    nome: Município
+    descrição: Unidade territorial administrativa usada para contextualização geográfica e institucional.
+
+  - id: district
+    nome: Distrito
+    descrição: Subdivisão territorial ou localidade administrativa usada para contextualização geográfica do território.
